@@ -35,7 +35,6 @@ I may not come from privilege, but I code with hunger. Class 12 student by day, 
 
 | Project                            | Description                                                                                    |
 | ---------------------------------- | ---------------------------------------------------------------------------------------------- |
-| 🔥 **12th Man**                    | A Fight Club-inspired lore-based productivity tracker. Beat procrastination like a final boss. |
 | ⏱️ **Pomodoro Battle**             | Timer + Task tracker + Monster-fighting study room. Productivity meets RPG.                    |
 | 📅 **Smart Planner**               | React + Firebase task timer with calendar, productivity graphs, and revision reminders.        |
 | 🧠 **Revision Tracker AI**         | Algorithm that reminds *what*, *when*, and *how* to revise. Forget forgetting.                 |
@@ -53,7 +52,6 @@ I build like it’s war, learn like it’s survival, and fail forward — always
 ## 📫 Let's Connect
 
 * 🧠 Twitter (alt): `@zero_thread` (coming soon)
-* 📺 YouTube: *Coming when I roast my TikTok friend 😂*
 * ✉️ Email: `3953vishal@gmail.com`
 
 ---
