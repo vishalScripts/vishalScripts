@@ -1,9 +1,6 @@
 
 
-# 🚀 Vishal Kumar | The Comeback Coder
-
-> *"Hasta la muerte."*  
-> I’m not just studying Class 12 — I’m rewriting my story.
+# 🚀 Vishal Kumar | 
 
 ---
 
