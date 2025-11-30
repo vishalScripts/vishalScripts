@@ -4,7 +4,7 @@
 
 
 
-👉 <a href="[https://yourapp.vercel.app](https://gulshansharma.vercel.app/)" target="_blank">Try it Live!</a>
+👉 <a href="https://gulshansharma.vercel.app/" target="_blank">Try it Live!</a>
 
 
 
